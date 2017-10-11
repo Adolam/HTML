@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="117.62579mm"
+   height="138.7048mm"
+   viewBox="0 0 117.62579 138.7048"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
@@ -24,7 +24,7 @@
        id="filter4620"
        x="-0.17330077"
        width="1.3466015"
-       y="-0.14183999"
+       y="-0.14184"
        height="1.28368">
       <feGaussianBlur
          inkscape:collect="always"
@@ -40,8 +40,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="216.01711"
-     inkscape:cy="706.21947"
+     inkscape:cx="183.23842"
+     inkscape:cy="164.77771"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,24 +50,29 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:snap-object-midpoints="true">
+     inkscape:snap-object-midpoints="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false">
     <sodipodi:guide
-       position="0,0"
+       position="153.29262,-103.16603"
        orientation="0,793.70079"
        id="guide29"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="210,0"
+       position="121.22029,165.17256"
        orientation="-1122.5197,0"
        id="guide31"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,130.96207"
+       position="189.10674,6.9490125"
        orientation="0,-793.70079"
        id="guide33"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,297"
+       position="-4.9309219,7.4835525"
        orientation="1122.5197,0"
        id="guide35"
        inkscape:locked="false" />
@@ -87,18 +92,19 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-8.6726956,6.342832)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="62.541069"
        y="87.460686"
        id="text45"><tspan
          sodipodi:role="line"
          id="tspan43"
          x="62.541069"
-         y="96.854675"
-         style="stroke-width:0.26458332;font-size:50.8px;" /></text>
+         y="132.55182"
+         style="font-size:50.79999924px;stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.93055534px;line-height:1.25;font-family:Symbol;-inkscape-font-specification:Symbol;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
